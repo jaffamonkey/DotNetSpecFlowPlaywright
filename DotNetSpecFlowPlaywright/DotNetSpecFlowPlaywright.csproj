@@ -11,15 +11,15 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="ExtentReports" Version="4.1.0" />
-    <PackageReference Include="Microsoft.Extensions.Configuration" Version="5.0.0" />
-    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.10.0" />
-    <PackageReference Include="Microsoft.Playwright" Version="1.12.2" />
-    <PackageReference Include="SpecFlow.NUnit" Version="3.9.8" />
-    <PackageReference Include="nunit" Version="3.13.2" />
-    <PackageReference Include="NUnit3TestAdapter" Version="4.0.0" />
-    <PackageReference Include="FluentAssertions" Version="5.10.3" />    
-    <PackageReference Include="SpecFlow.Plus.LivingDocPlugin" Version="3.9.57" />
+    <PackageReference Include="ExtentReports" Version="*" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="*" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="*" />
+    <PackageReference Include="Microsoft.Playwright" Version="*" />
+    <PackageReference Include="SpecFlow.NUnit" Version="*" />
+    <PackageReference Include="nunit" Version="*" />
+    <PackageReference Include="NUnit3TestAdapter" Version="*" />
+    <PackageReference Include="FluentAssertions" Version="*" />    
+    <PackageReference Include="SpecFlow.Plus.LivingDocPlugin" Version="*" />
   </ItemGroup>
 
   <ItemGroup>
